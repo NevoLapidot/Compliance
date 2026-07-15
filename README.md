@@ -14,12 +14,31 @@ businesses across jurisdictions (EU/MiCA, UK, US, UAE, Singapore, Israel):
 
 | Area | What it involves |
 |---|---|
-| **Crypto asset due diligence** | Listing verification frameworks — legal classification, technical risk, enforcement screening — for exchanges and brokers |
-| **Financial crime & travel rule** | AML/CTF program design, VASP counterparty reviews, sanctions and blockchain-analytics screening |
 | **Regulatory perimeter & licensing** | What a product *is* in regulatory terms, where it can be offered, and how to sequence licensing across markets |
-| **Marketing & promotions compliance** | Jurisdiction-specific review of crypto financial promotions |
-| **M&A and exit readiness** | Regulatory due diligence on crypto targets — and helping startups become the target that passes it |
 | **Compliance tooling** | Building AI-assisted workflows (Claude skills and agents) that make compliance work faster and more consistent |
+| **Financial crime & travel rule** | AML/CTF program design, VASP counterparty reviews, sanctions and blockchain-analytics screening |
+| **M&A and exit readiness** | Regulatory due diligence on crypto targets — and helping startups become the target that passes it |
+| **Crypto asset due diligence** | Listing verification frameworks — legal classification, technical risk, enforcement screening — for exchanges and brokers |
+| **Marketing & promotions compliance** | Jurisdiction-specific review of crypto financial promotions |
+
+## Expert witness & expert opinions
+
+Alongside advisory work, I act as an **expert witness** and provide
+**written expert opinions** in matters involving crypto and
+financial-services compliance — for courts, arbitral tribunals, regulators,
+and counsel on both sides of a dispute.
+
+Typical engagements include source-of-funds and source-of-wealth analysis
+supported by on-chain evidence, opinions on the adequacy of AML/CTF programs
+against the industry standard of care, regulatory-perimeter questions (what
+a product was, in regulatory terms, and where it could lawfully be offered),
+and reconstructing what a diligent compliance function would have known and
+done at a given point in time.
+
+Every opinion is built to survive cross-examination: traceable evidence, an
+explicit methodology, and clearly stated limits on what the analysis does
+and does not cover. For engagements, reach out on
+[LinkedIn](https://www.linkedin.com/in/nevol).
 
 ## In this repository
 
