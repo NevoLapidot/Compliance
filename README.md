@@ -40,6 +40,12 @@ This is a generalized, portable version — no personal paths, employer referenc
 
 > "Before we finish — verify you followed every instruction in this thread and fix anything you missed."
 
+**Or make it automatic.** Add a line to your global Claude instructions (your `CLAUDE.md`, or the app's global/memory instructions) so the check runs at the end of every task without you asking:
+
+> "At the end of any substantive task, run the instruction-compliance skill to verify every instruction was followed, auto-correct anything missed, and report before finishing."
+
+That's the point of the skill living in your instructions rather than your memory: the gate fires on its own, so a missed requirement gets caught even on the tasks where you'd have forgotten to ask.
+
 Questions or ideas for it? Reach out on [LinkedIn](https://www.linkedin.com/in/nevol).
 
 ---
