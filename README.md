@@ -47,6 +47,7 @@ Each talk or project lives on its own branch:
 | Branch | Content |
 |---|---|
 | [`Compliance-Necessities-for-Crypto-Startups`](../../tree/Compliance-Necessities-for-Crypto-Startups) | My Collider · Crypto Exits in Israel talk (July 2026): the seven compliance necessities acquirers look for in diligence — write-up, slides, and **crypto-startup-triage**, a Claude skill that runs a 12-domain compliance triage of any crypto startup |
+| [`Instruction-Compliance`](../../tree/Instruction-Compliance) | A generalized Claude skill that acts as a post-task quality gate — it reads every instruction back out of the conversation (directives, format rules, constraints, corrections), checks each against the actual output rather than memory, and auto-fixes what was missed. The fix for "I wrote it in the instructions and it still got skipped" |
 
 ## Get in touch
 
