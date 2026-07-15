@@ -54,8 +54,9 @@ day one.
 It's a structured first pass, not legal advice: it tells you *what to ask,
 where to dig, and who to call*.
 
-**Get it:** [`skills/crypto-startup-triage.skill`](../../skills/crypto-startup-triage.skill)
-(the browsable source is in [`skills/crypto-startup-triage/`](../../skills/crypto-startup-triage/))
+**Get it:** [`crypto-startup-triage.skill`](./crypto-startup-triage.skill)
+(or browse the source: [`SKILL.md`](./SKILL.md) and the reference files
+alongside it)
 
 **Install:**
 
